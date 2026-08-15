@@ -7,3 +7,4 @@ print(receiver_name)
 container_id = "cont_5001"
 print(container_id)
 warehouse_id = "wh_001"
+print(warehouse_id)
