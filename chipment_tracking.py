@@ -32,6 +32,8 @@ Tracking_History.append("تم تسجيل الشحنة"(
   Staus = "in transit"
   print("الحاللة الالية" ,Status)  
  "status = "arrived
-  print("الحالة الحالية" :status)     
+  print("الحالة الحالية" :status)
+  tracking_history.append (" وصلت الشحنة الى الوجهة")
+  print(tracking_history)     
 
 
