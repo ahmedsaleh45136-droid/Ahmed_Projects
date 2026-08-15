@@ -26,5 +26,7 @@ Tracking_History = {}
 Tracking_History.append("تم تسجيل الشحنة"(
   Tracking_History.Append("دخلت الشحنة إلى المستودع")
   print(Tracking_History)
+  Tracking_History.Append
+  print(Tracking_History)
 
 
