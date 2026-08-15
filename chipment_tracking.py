@@ -34,6 +34,8 @@ Tracking_History.append("تم تسجيل الشحنة"(
  "status = "arrived
   print("الحالة الحالية" :status)
   tracking_history.append (" وصلت الشحنة الى الوجهة")
-  print(tracking_history)     
+  print(tracking_history)  
+ "status ="delivered
+ print("الحالة الحالة الحالية", status:)      
 
 
