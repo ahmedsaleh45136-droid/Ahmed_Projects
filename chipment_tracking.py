@@ -24,5 +24,7 @@ Tracking_number = "TRK_9001"
 print(Tracking_number)
 Tracking_History = {}
 Tracking_History.append("تم تسجيل الشحنة"(
+  Tracking_History.Append("دخلت الشحنة إلى المستودع")
+  print(Tracking_History)
 
 
