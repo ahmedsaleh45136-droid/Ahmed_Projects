@@ -10,3 +10,5 @@ warehouse_id = "wh_001"
 print(warehouse_id)
 status = "in Transit"
 print(status)
+current_Location = "Dubai"
+print(current_Location)
