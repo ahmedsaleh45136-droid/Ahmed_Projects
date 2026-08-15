@@ -16,3 +16,5 @@ created_at = "2026_08_15  09:15"
 print(created_at)
 actual_departure_time = "2026_08_15  10:30"
 print(actual_departure_time)
+estimated_arrival_time = "2026_08_20  14:00"
+print(estimated_arrival_time)
