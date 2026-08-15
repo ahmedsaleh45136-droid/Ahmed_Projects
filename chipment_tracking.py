@@ -29,5 +29,7 @@ Tracking_History.append("تم تسجيل الشحنة"(
   Tracking_History.Append
   print(Tracking_History)
   Tracking_History.Append ("الشحنة قيد النقل")
+  Staus = "in transit"
+  print("الحاللة الالية" ,Status)     
 
 
